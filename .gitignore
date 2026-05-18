@@ -131,4 +131,10 @@ dmypy.json
 model/
 training_data.json
 data/*.json
+# Discord message exports and sensitive files
+messages.json
+channel_messages.json
+discord_messages.json
+*.messages.json
+exports/
 data/*.csv
